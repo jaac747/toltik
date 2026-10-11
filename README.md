@@ -21,3 +21,9 @@ Adicional se tiene la transicion entre videos, por lo que se muestra el proximo 
 Carga del video se muestra un circular load mientras se espera que el video aparesca
 
 ![Carga](assets/readme/carga.png)
+
+
+##Tecnologia
+Esta desarrollado con flutter, la aplicacion contiene videos pregrabados simulando un receptor de videos.
+
+Utiliza un VideoPlayerController para la reproduccion de videos, asi como GestureDetector para pausar o continuar la reproduccion
