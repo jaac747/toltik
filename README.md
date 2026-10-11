@@ -1,16 +1,22 @@
 # toktik
 
-A new Flutter project.
+Es un proyecto que te permite visualizar videos, y deslizar para cambiarlos.
 
-## Getting Started
+## Caracteristicas
+En este proyecto tienes distintas caracteristicas que se visualizan mientras se reproduce el video.
 
-This project is a starting point for a Flutter application.
+ ![Lab: Write your first Flutter app](assets/readme/inicio.jpeg.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+1.  El titulo del video
+2.  Cantidad de me gustan
+3.  Cantidad de visualizaciones
+4.  Gira mientras el video se visualiza
+5.  El video como tal
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Transición del video
+Adicional se tiene la transicion del video asi como la carga mientras se carga el video
+![Cookbook: Useful Flutter samples](assets/readme/transicion.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Carga del video se muestra un circular load mientras se espera que el video aparesca
+
+![Carga](assets/readme/carga.png)
